@@ -41,6 +41,16 @@
       <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/7.js">javascript</a></td>
     </tr>
     <tr>
+      <td style="text-align:center">8</td>
+      <td style="text-align:center"><a href="https://leetcode-cn.com/problems/string-to-integer-atoi/description/">string to integer atoi</a></td>
+      <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/8.js">javascript</a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">9</td>
+      <td style="text-align:center"><a href="https://leetcode-cn.com/problems/palindrome-number/description/">Palindrome Number</a></td>
+      <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/9.js">javascript</a></td>
+    </tr>
+    <tr>
       <td style="text-align:center">26</td>
       <td style="text-align:center"><a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/">Remove Duplicates from Sorted Array</a></td>
       <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/26.js">javascript</a></td>
