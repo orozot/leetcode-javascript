@@ -76,6 +76,11 @@
       <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/108.js">javascript</a></td>
     </tr>
     <tr>
+      <td style="text-align:center">226</td>
+      <td style="text-align:center"><a href="https://leetcode-cn.com/problems/invert-binary-tree/description/">Invert Binary Tree</a></td>
+      <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/226.js">javascript</a></td>
+    </tr>
+    <tr>
       <td style="text-align:center">257</td>
       <td style="text-align:center"><a href="https://leetcode-cn.com/problems/binary-tree-paths">Binary Tree Paths</a></td>
       <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/257.js">javascript</a></td>
