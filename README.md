@@ -36,6 +36,11 @@
       <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/5.js">javascript</a></td>
     </tr>
     <tr>
+      <td style="text-align:center">7</td>
+      <td style="text-align:center"><a href="https://leetcode-cn.com/problems/reverse-integer/">Reverse Integer</a></td>
+      <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/7.js">javascript</a></td>
+    </tr>
+    <tr>
       <td style="text-align:center">26</td>
       <td style="text-align:center"><a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/">Remove Duplicates from Sorted Array</a></td>
       <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/26.js">javascript</a></td>
