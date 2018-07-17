@@ -62,6 +62,11 @@
     </tr>
     <tr>
       <td style="text-align:center">104</td>
+      <td style="text-align:center"><a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/">Binary Tree Level Order Traversal</a></td>
+      <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/102.js">javascript</a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">104</td>
       <td style="text-align:center"><a href="https://leetcode-cn.com/problems/maximum-depth-of-binary-tree">Maximum Depth of Binary Tree</a></td>
       <td style="text-align:center"><a href="https://github.com/orozot/leetcode-javascript/blob/master/104.js">javascript</a></td>
     </tr>
